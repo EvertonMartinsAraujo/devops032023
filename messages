@@ -1,0 +1,46 @@
+Apr  8 09:00:17 debian kernel: [30539.229870] 11:59:30.611355 timesync vgsvcTimeSyncWorker: Radical guest time change: 692 020 021 975 000ns (GuestNow=1 680 955 170 611 326 
+Apr  8 09:00:17 debian kernel: [30585.628021] audit: type=1400 audit(1680955217.008:25): apparmor="DENIED" operation="capable" profile="/usr/sbin/cups-browsed" pid=12524 comm="cups-browsed" capability=23  capname="sys_nice"
+Apr  8 09:09:21 debian rsyslogd: [origin software="rsyslogd" swVersion="8.2102.0" x-pid="362" x-info="https://www.rsyslog.com"] rsyslogd was HUPed
+Apr  8 09:21:08 debian kernel: [31773.973397] 12:20:05.357534 DrmResizeThread VBoxDRMClient: push screen layout data of 1 display(s) to DRM stack, fPartialLayout=false, rc=V
+Apr  8 10:35:05 debian lightdm[13278]: Error getting user list from org.freedesktop.Accounts: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Accounts was not provided by any .service files
+Apr  8 10:35:05 debian pulseaudio[13300]: Disabling timer-based scheduling because running inside a VM.
+Apr  8 10:35:05 debian pulseaudio[13300]: Disabling timer-based scheduling because running inside a VM.
+Apr  8 10:47:11 debian lightdm[13345]: Error getting user list from org.freedesktop.Accounts: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Accounts was not provided by any .service files
+Apr  8 10:55:49 debian kernel: [31836.727749] 12:21:08.112053 DrmResizeThread VBoxDRMClient: push screen layout data of 1 display(s) to DRM stack, fPartialLayout=false, rc=V
+Apr  8 10:55:49 debian kernel: [37517.613897] 13:55:48.999798 dnd       No guest source window
+Apr  8 10:55:49 debian kernel: [37517.618429] 13:55:49.004950 dnd       No guest source window
+Apr  8 10:55:49 debian kernel: [37517.776991] 13:55:49.163200 dnd       No guest source window
+Apr  8 10:55:49 debian kernel: [37517.800273] 13:55:49.186739 dnd       No guest source window
+Apr  8 10:55:49 debian kernel: [37517.808883] 13:55:49.195341 dnd       No guest source window
+Apr  8 10:55:49 debian kernel: [37517.816619] 13:55:49.202941 dnd       No guest source window
+Apr  8 10:55:49 debian kernel: [37517.825039] 13:55:49.211538 dnd       No guest source window
+Apr  8 10:55:49 debian kernel: [37517.832381] 13:55:49.218874 dnd       No guest source window
+Apr  8 10:55:49 debian kernel: [37517.841100] 13:55:49.227602 dnd       No guest source window
+Apr  8 10:55:49 debian kernel: [37517.848310] 13:55:49.234770 dnd       No guest source window
+Apr  8 10:55:49 debian kernel: [37518.104627] 13:55:49.491049 dnd       No guest source window
+Apr  8 10:55:49 debian kernel: [37518.112509] 13:55:49.499012 dnd       No guest source window
+Apr  8 10:55:49 debian kernel: [37518.120588] 13:55:49.507050 dnd       No guest source window
+Apr  8 10:55:49 debian kernel: [37518.128130] 13:55:49.514647 dnd       No guest source window
+Apr  8 10:55:49 debian kernel: [37518.142237] 13:55:49.528714 dnd       No guest source window
+Apr  8 10:55:49 debian kernel: [37518.145469] 13:55:49.531977 dnd       No guest source window
+Apr  8 10:55:49 debian kernel: [37518.159748] 13:55:49.546145 dnd       No guest source window
+Apr  8 11:55:35 debian gnome-keyring-d[14463]: couldn't access control socket: /run/user/1000/keyring/control: Arquivo ou diretório inexistente
+Apr  8 11:55:35 debian gnome-keyring-d[14463]: no private keys found in file
+Apr  8 11:55:35 debian gnome-keyring-d[14463]: invalid or unrecognized private SSH key: analista@debian
+Apr  8 11:55:40 debian gnome-keyring-d[14463]: asked to register item /org/freedesktop/secrets/collection/Chaveiro_5fpadr_c3_a3o/1, but it's already registered
+Apr  8 11:56:05 debian xdg-desktop-por[14450]: Failed to get application states: GDBus.Error:org.freedesktop.portal.Error.Failed: Could not get window list
+Apr  8 12:19:33 debian kernel: [42541.883327] usb 2-1: USB disconnect, device number 7
+Apr  8 12:19:33 debian kernel: [42541.883496] 15:19:33.268178 control  Session 0 is about to close ...
+Apr  8 12:19:33 debian kernel: [42541.895302] 15:19:33.283153 control  Stopping all guest processes ...
+Apr  8 12:19:33 debian kernel: [42541.895856] 15:19:33.283651 control  Closing all guest files ...
+Apr  8 12:19:33 debian kernel: [42541.904245] 15:19:33.288175 control  vbglR3GuestCtrlDetectPeekGetCancelSupport: Supported (#1)
+Apr  8 12:19:33 debian kernel: [42542.533527] usb 2-1: new full-speed USB device number 8 using ohci-pci
+Apr  8 12:19:34 debian kernel: [42542.841387] usb 2-1: New USB device found, idVendor=80ee, idProduct=0021, bcdDevice= 1.00
+Apr  8 12:19:34 debian kernel: [42542.841391] usb 2-1: New USB device strings: Mfr=1, Product=3, SerialNumber=0
+Apr  8 12:19:34 debian kernel: [42542.841392] usb 2-1: Product: USB Tablet
+Apr  8 12:19:34 debian kernel: [42542.841393] usb 2-1: Manufacturer: VirtualBox
+Apr  8 12:19:34 debian kernel: [42542.854610] input: VirtualBox USB Tablet as /devices/pci0000:00/0000:00:06.0/usb2/2-1/2-1:1.0/0003:80EE:0021.0007/input/input14
+Apr  8 12:19:34 debian kernel: [42542.854763] hid-generic 0003:80EE:0021.0007: input,hidraw0: USB HID v1.10 Mouse [VirtualBox USB Tablet] on usb-0000:00:06.0-1/input0
+Apr 11 13:11:58 debian kernel: [42550.135481] 16:11:57.819257 timesync vgsvcTimeSyncWorker: Radical host time change: 262 346 333 000 000ns (HostNow=1 681 229 517 819 000 00
+Apr 11 13:11:58 debian kernel: [42550.347863] audit: type=1400 audit(1681229518.031:26): apparmor="DENIED" operation="capable" profile="/usr/sbin/cupsd" pid=14962 comm="cupsd" capability=12  capname="net_admin"
+Apr 11 13:11:58 debian kernel: [42550.389724] audit: type=1400 audit(1681229518.071:27): apparmor="DENIED" operation="capable" profile="/usr/sbin/cups-browsed" pid=14969 comm="cups-browsed" capability=23  capname="sys_nice"
